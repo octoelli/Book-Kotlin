@@ -8,3 +8,5 @@
 
 Welcome to [Kotlin](https://kotlinlang.org/)!  
 Aprimore seu [conhecimento](https://web.dio.me/play?search=Kotlin)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=octoelli&theme=dracula)](https://github.com/stars/octoelli/lists/future-ideas)
