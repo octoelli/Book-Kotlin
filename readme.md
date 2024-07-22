@@ -7,6 +7,7 @@
 # Kotlin Programming Language
 
 Welcome to [Kotlin](https://kotlinlang.org/)!  
-Aprimore seu [conhecimento](https://web.dio.me/play?search=Kotlin)
+Aprimore seu [conhecimento](https://web.dio.me/play?search=Kotlin).
+Estude usando o Microsoft Edge [navegador web](https://www.microsoft.com/pt-br/edge/download?msockid=1c4fe7f3187a6a6229b4f35f19cb6b24&form=MA13FJ)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=octoelli&theme=dracula)](https://github.com/stars/octoelli/lists/future-ideas)
