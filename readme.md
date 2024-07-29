@@ -11,4 +11,4 @@ Aprimore seu [conhecimento](https://web.dio.me/play?search=Kotlin).
 Estude usando o Microsoft Edge [navegador web](https://www.microsoft.com/pt-br/edge/download?msockid=1c4fe7f3187a6a6229b4f35f19cb6b24&form=MA13FJ). 
 Introdução prática a [linguagem Kotlin](https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=octoelli&theme=dracula)](https://github.com/stars/octoelli/lists/future-ideas)
+[![trophy](https://streak-stats.demolab.com/?user=octoelli&theme=chartreuse-dark&background=000&border=30A3DC&dates=FFF)](https://github.com/stars/octoelli/lists/future-ideas)
