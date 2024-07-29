@@ -12,3 +12,5 @@ Estude usando o Microsoft Edge [navegador web](https://www.microsoft.com/pt-br/e
 Introdução prática a [linguagem Kotlin](https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world)
 
 [![trophy](https://streak-stats.demolab.com/?user=octoelli&theme=chartreuse-dark&background=000&border=30A3DC&dates=FFF)](https://github.com/stars/octoelli/lists/future-ideas)
+
+Comece sua primeira jornada emocionante com a programação Kotlin! Descubra como trabalhar com variáveis, controlar o fluxo de código e entender conceitos essenciais de programação orientada a objetos.
