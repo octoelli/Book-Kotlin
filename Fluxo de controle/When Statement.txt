@@ -19,3 +19,4 @@ fun cases(obj: Any) {
 class MyClass
 
 Observe que todas as condições de ramificação são verificadas sequencialmente até que uma delas seja satisfeita. Portanto, apenas a primeira ramificação adequada será executada.
+
