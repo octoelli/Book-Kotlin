@@ -1,17 +1,34 @@
-O Kotlin é compatível com todos os loops comumente usados: , , forwhiledo-while
-for
+O Kotlin é compatível com todos os loops comumente usados: , , forw    hile    do-while
+
+<h1>for</h1>
 for em Kotlin funciona da mesma maneira que na maioria das linguagens.
 val cakes = listOf("carrot", "cheese", "chocolate")
 ​
-for (cake in cakes) {                               // 1
+for (cake in cakes) {                               // 1    Percorre cada bolo da lista.
     println("Yummy, it's a $cake cake!")
 }
 ​
-Aberto no Playground →
-Alvo: JVM
-Em execução na v.2.0.0
-Percorre cada bolo da lista.
-while e do-while
+------------------------------------------------------
+fun main() {
+
+    val cakes = listOf("carrot", "cheese", "chocolate")
+    
+    for (cake in cakes) {                               // 1
+        println("Yummy, it's a $cake cake!")
+    }
+
+
+}
+
+Link: https://pl.kotl.in/BatrLfJt1
+
+Yummy, it's a carrot cakes!
+Yummy, it's a cheese cakes!
+Yummy, it's a chocolate cakes!
+------------------------------------------------------
+
+
+<h1>while e do-while</h1>
 while e as construções funcionam de forma semelhante à maioria das linguagens também.do-while
 fun eatACake() = println("Eat a Cake")
 fun bakeACake() = println("Bake a Cake")
@@ -32,8 +49,7 @@ fun main(args: Array<String>) {
 ​
 }
 
-Alvo: JVM
-Em execução na v.2.0.0
+
 
 
 <1>Iteradores</h1>
@@ -59,8 +75,7 @@ fun main() {
 ​
 }
 
-Alvo: JVM
-Em execução na v.2.0.0
+
 
 
 
