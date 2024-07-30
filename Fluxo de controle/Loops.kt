@@ -54,29 +54,45 @@ fun main(args: Array<String>) {
 
 <1>Iteradores</h1>
 Você pode definir seus próprios iteradores em suas classes implementando o operador neles.iterator
+
+
 class Animal(val name: String)
+2
 ​
+3
 class Zoo(val animals: List<Animal>) {
+4
 ​
-    operator fun iterator(): Iterator<Animal> {             // 1  Define um iterador em uma classe. Ele deve ser nomeado e ter o modificador.iteratoroperator
-        return animals.iterator()                           // 2  Retorna o iterador que atende aos seguintes requisitos de método:
-                                                                                                                                  next(): Animal
-                                                                                                                                  hasNext(): Boolean
+5
+    operator fun iterator(): Iterator<Animal> {             // 1
+6
+        return animals.iterator()                           // 2
+7
     }
+8
 }
+9
 ​
+10
 fun main() {
+11
+    val animals = listOf(Animal("zebra"), Animal("lion"));
+12
+    val zoo = Zoo(animals)
+13
 ​
-    val zoo = Zoo(listOf(Animal("zebra"), Animal("lion")))
-​
-    for (animal in zoo) {                                   // 3  Percorre os animais no zoológico com o iterador definido pelo usuário.
+14
+    for (animal in zoo) {                                   // 3
+15
         println("Watch out, it's a ${animal.name}")
+16
     }
+17
 ​
+18
 }
 
-
-
+Link: [acessar](https://pl.kotl.in/lm_3Po3rJ?readOnly=true)
 
 
 O iterador pode ser declarado no tipo ou como uma função de extensão.
