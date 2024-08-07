@@ -6,4 +6,4 @@ Para praticar os conceitos básicos da linguagem Kotlin, você usará um editor 
 
 Não é possível criar apps Android no Playground Kotlin. Em caminhos posteriores, você instalará e usará uma ferramenta chamada Android Studio para escrever e editar o código do app Android.
 
-Agora que você tem algum contexto sobre o Kotlin, dê uma olhada no seu primeiro programa!
+Agora que você tem algum contexto sobre o Kotlin, dê uma olhada no seu [primeiro programa!](https://github.com/octoelli/codelab/blob/main/introducao/Hello_world.kt)
