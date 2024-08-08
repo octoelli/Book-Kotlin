@@ -9,6 +9,7 @@ Não é possível criar apps Android no Playground Kotlin. Em caminhos posterior
 Agora que você tem algum contexto sobre o Kotlin, dê uma olhada no seu [primeiro programa!](https://github.com/octoelli/codelab/blob/main/introducao/Hello_world.kt)
 
 Resumo
+
 Um programa Kotlin requer uma mainfunção como ponto de entrada do programa.
 Para definir uma função em Kotlin, use a funpalavra-chave, seguida pelo nome da função, quaisquer entradas entre parênteses, seguidas pelo corpo da função entre chaves.
 O nome de uma função deve seguir a convenção camel case e começar com uma letra minúscula.
