@@ -8,7 +8,7 @@ Não é possível criar apps Android no Playground Kotlin. Em caminhos posterior
 
 Agora que você tem algum contexto sobre o Kotlin, dê uma olhada no seu [primeiro programa!](https://github.com/octoelli/codelab/blob/main/introducao/Hello_world.kt)
 
-Resumo
+## Resumo
 
 Um programa Kotlin requer uma mainfunção como ponto de entrada do programa.
 
